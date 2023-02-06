@@ -4,7 +4,7 @@
 
 <center><img src="image/2.jpg" width="35%"></center>
 
-姓名:**刘志昊** 178.0cm/74.0kg
+姓名:**刘志昊** 178.0cm/73.0kg
 
 生日:2000.11(射手座)
 
